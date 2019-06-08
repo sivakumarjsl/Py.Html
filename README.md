@@ -22,6 +22,8 @@ Algorithm makes an HTML file from scratch starting idea is *organization* where 
 
 *[Felipe Catão](https://github.com/FelipeKatao)* - Full Stack Web Developer
 
+*[sivakumarjsl]https://github.com/sivakumarjsl)* - REACT JS AND NODE JS Developer
+
 *[André Luiz](https://github.com/andrentfs)* - Full Stack Web Developer
 
 # Sumary: 
